@@ -1,0 +1,10 @@
+C:\Users\thato\source\repos\installation\bin\Debug\installation.exe.config
+C:\Users\thato\source\repos\installation\bin\Debug\installation.exe
+C:\Users\thato\source\repos\installation\bin\Debug\installation.pdb
+C:\Users\thato\source\repos\installation\obj\Debug\installation.csproj.AssemblyReference.cache
+C:\Users\thato\source\repos\installation\obj\Debug\installation.Form1.resources
+C:\Users\thato\source\repos\installation\obj\Debug\installation.Properties.Resources.resources
+C:\Users\thato\source\repos\installation\obj\Debug\installation.csproj.GenerateResource.cache
+C:\Users\thato\source\repos\installation\obj\Debug\installation.csproj.CoreCompileInputs.cache
+C:\Users\thato\source\repos\installation\obj\Debug\installation.exe
+C:\Users\thato\source\repos\installation\obj\Debug\installation.pdb
