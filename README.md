@@ -1,6 +1,4 @@
-<style>
-  text-align: center;
-</style>
+<center>
 # Blue Screen of *click* POOF!
 A game i made which "does a *POOF!*" and bluescreens your computer... or so you think... as clicking the background increases the counter!
 
@@ -13,3 +11,4 @@ click
 
 # Nice game! where can i support you?
 idk
+</center>
