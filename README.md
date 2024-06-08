@@ -16,9 +16,7 @@ simply install git and enter this command or if you have GitHub desktop then do 
 ```Git
 git clone https://github.com/nSwishBall/Blue-Screen-of-Click.git
 ```
-```GitHub Desktop
-Click on **Set up in desktop** and it will open GitHub desktop, SO CLONE THE REPOSITORE NOW.
-```
+Click on Set up in desktop if you use GitHub desktop.
 # how did you make this app fullscreen
 set WindowState to Maximized and TopMost to True
 also set FormBorderStyle to None
